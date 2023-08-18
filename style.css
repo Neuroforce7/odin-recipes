@@ -1,12 +1,12 @@
 h1 {
 
-    color: yellow;
+   
 }
 
 
 body {
 
-    background-color: gray;
+   
 }
 
 .ingredients{
@@ -30,3 +30,45 @@ width: 500px;
 height: auto;
 
 }
+
+.linkm a {
+display: block;
+background-color: black;
+color: white;
+padding: 8px;
+margin: 8px;
+
+}
+
+ul {
+
+    width: 400px;
+    text-align: center;
+    margin: 16px auto;
+    padding: 8px;
+
+
+}
+
+.linkb a {
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    margin:8px
+    
+    
+    }
+
+
+    img {
+       display:block;
+        margin: auto;
+
+    }
+
+
+    h1 {
+
+        text-align: center;
+    }
